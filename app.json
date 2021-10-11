@@ -4,7 +4,7 @@
     "logo": "https://telegra.ph/file/75ee20ec8d8c8bba84f02.jpg",
     "keywords": ["Telegram","python", "Video","Compressor","Encoder"],
     "repository": "https://github.com/1Danish-00/CompressorBot",
-    "success_url": "https://t.me/BotzHub",
+    "success_url": "https://t.me/PigasusUpdates",
     "stack": "container",
     "env": {
         "APP_ID": {
